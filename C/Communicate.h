@@ -1,0 +1,8 @@
+
+class Communication {
+
+  Communication();
+  ~Communication();
+
+  
+};
